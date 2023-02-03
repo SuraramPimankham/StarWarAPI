@@ -1,4 +1,4 @@
-# student_api
+# StarWar_api
 
 A new Flutter project.
 
